@@ -1,0 +1,41 @@
+body {
+  background-color: #393e46;
+  text-align: center;
+  margin: 0;
+}
+
+/* Header section */
+.headerSection {
+  margin: auto;
+}
+
+h1 {
+  font-family: "Lobster";
+  text-shadow: 5px 0 #232931;
+  font-weight: bold;
+  font-size: 800%;
+  color: #4ecca3;
+}
+
+/* body Section */
+
+.bodySection {
+  padding-top: 5%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+p {
+  font-size: 200%;
+  color: #4ecca3;
+  font-family: "Indie Flower";
+}
+
+/* footer */
+
+footer {
+  margin-top: 7%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Indie Flower";
+}
